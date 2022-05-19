@@ -1,0 +1,123 @@
+<!-- HTML !-->
+<button class="button-31" role="button">Button 31</button>
+
+/* CSS */
+.button-31 {
+  background-color: #222;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0;
+  max-width: none;
+  min-height: 44px;
+  min-width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+}
+
+.button-31:hover,
+.button-31:focus {
+  opacity: .75;
+
+
+
+
+
+
+
+
+
+.button {
+    background-color: lightgrey; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: center;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 4px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .adminlogin{
+    background-color: lightgrey;
+    color:white;
+    height:60px;
+    width: 100px;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    display: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    style:bold;
+  }
+
+
+
+  .bus2{
+    background-image: url("bus2.png");
+    background-size: 150px;
+    width: 480px;
+    height: 300px;
+    background-size:contain;
+    position: absolute; top:300px;
+  }
+
+
+
+
+
+
+  .bus{
+    background-image: url("buspng.png");
+    background-size: 150px;
+    width: 480px;
+    height: 300px;
+    background-size:contain;
+    margin-top : - 100px;
+
+
+    <div class="button">
+		<Button Background="Red" class="button" role="button"><a href="login.php"><h2>LOGIN</h2></a></button>
+		<Button Background="Red" class="button" role="button"><a href="register.php"><h2>REGISTER</h2></a></button>
+    </div>
+
+
+
+
+
+
+    font-family: 'Poppins', sans-serif;
+  text-align:center;
+  list-style: none;
+
+  //Database Connection.
+
+$conn = mysqli_connect('localhost','root','','busbooking');
+
+if(isset($_POST['']))
